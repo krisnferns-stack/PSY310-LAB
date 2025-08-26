@@ -268,7 +268,7 @@
     <LoopInitiator loopType="TrialHandler" name="trials">
       <Param name="Selected rows" updates="None" val="" valType="str"/>
       <Param name="conditions" updates="None" val="[{'word': 'RED', 'colour': 'red', 'stim_condition': 'c', 'correct_res': 'r'}, {'word': 'BLUE', 'colour': 'blue', 'stim_condition': 'c', 'correct_res': 'b'}, {'word': 'RED', 'colour': 'blue', 'stim_condition': 'i', 'correct_res': 'b'}, {'word': 'BLUE', 'colour': 'red', 'stim_condition': 'i', 'correct_res': 'r'}]" valType="str"/>
-      <Param name="conditionsFile" updates="None" val="C:/Users/Lenovo/Desktop/Psy Lab/Stroop Tasks/stroop_excels/stroop1.xlsx" valType="file"/>
+      <Param name="conditionsFile" updates="None" val="C:/Users/Lenovo/Desktop/Psy Lab/Stroop Tasks/stroop_excels/stroop1_conditions.xlsx" valType="file"/>
       <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
       <Param name="isTrials" updates="None" val="True" valType="bool"/>
       <Param name="loopType" updates="None" val="random" valType="str"/>
